@@ -1,6 +1,6 @@
 require 'rails'
 
-module PrettyphotoRails
+module Prettyphoto
   class Engine < Rails::Engine
   end
 end
