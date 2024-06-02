@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'prettyphoto'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.date        = '2013-05-21'
   s.summary     = 'Rails gem for easy prettyPhoto integration.'
   s.description = 'Rails gem for easy prettyPhoto (v3.1.5) integration. See https://github.com/scaron/prettyphoto for more information on how to use prettyPhoto.'
