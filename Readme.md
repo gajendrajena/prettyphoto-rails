@@ -1,9 +1,9 @@
-prettyphoto-rails
+prettyphoto
 =================
 
-A gem to easily integrate [prettyPhoto](http://www.no-margin-for-errors.com/projects/prettyPhoto/) with the rails 3.1+ asset pipeline.
+A gem to easily integrate [prettyPhoto](https://github.com/scaron/prettyphoto) with the rails 3.1+ asset pipeline.
 
-Currently this gem brings support for prettyPhoto **v3.1.5**.
+Currently this gem brings support for prettyPhoto **v3.1.6**.
 
 ## Installation
 
@@ -11,7 +11,7 @@ First add the following lines to your applications `Gemfile`:
 
 ``` ruby
 gem 'jquery-rails'
-gem 'prettyphoto-rails'
+gem 'prettyphoto'
 ```
 
 Run `bundle install`.
@@ -36,7 +36,7 @@ Finalize the setup by adding these lines to `app/assets/stylesheets/application.
 ## Usage
 
 Please refer to [http://www.no-margin-for-errors.com/projects/prettyPhoto/](http://www.no-margin-for-errors.com/projects/prettyPhoto/)
-for all the details on how to use. 
+for all the details on how to use.
 
 ### Credits
 
