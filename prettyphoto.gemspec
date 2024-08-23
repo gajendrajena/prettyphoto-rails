@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'gaju.mca@gmail.com'
   s.homepage    = 'http://github.com/gajendrajena/prettyphoto-rails'
   s.files       = Dir.glob("{vendor,lib}/**/*") + %w(LICENSE Readme.md)
-  s.add_dependency('rails', '~> 7.0.0')
+  s.add_dependency('rails', '~> 7.1.0')
   s.add_dependency('jquery-rails')
   s.add_dependency('sass-rails')
   s.add_dependency('uglifier')
